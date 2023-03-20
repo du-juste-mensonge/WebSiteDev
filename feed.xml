@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Du Juste Mensonge</title>
+    <link href="https://du-juste-mensonge.github.io/WebSiteDev/feed.xml" rel="self" />
+    <link href="https://du-juste-mensonge.github.io/WebSiteDev" />
+    <updated>2023-03-20T12:34:25+01:00</updated>
+    <author>
+        <name>Du Juste Mensonge</name>
+    </author>
+    <id>https://du-juste-mensonge.github.io/WebSiteDev</id>
+
+    <entry>
+        <title>bonjour a vous</title>
+        <author>
+            <name>Du Juste Mensonge</name>
+        </author>
+        <link href="https://du-juste-mensonge.github.io/WebSiteDev/bonjour-a-vous.html"/>
+        <id>https://du-juste-mensonge.github.io/WebSiteDev/bonjour-a-vous.html</id>
+
+        <updated>2023-03-20T12:34:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ceci est un début pour nous.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/logoDJM.png" height="500" width="500" alt=""  sizes="100vw" srcset="https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-xs.png 300w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-sm.png 480w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-md.png 768w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-lg.png 1024w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-xl.png 1360w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-2xl.png 1600w">
+      
+    </figure>
+
+  <p class="align-center">
+    ceci est un début pour nous.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
