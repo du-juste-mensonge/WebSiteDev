@@ -3,37 +3,36 @@
     <title>Du Juste Mensonge</title>
     <link href="https://du-juste-mensonge.github.io/WebSiteDev/feed.xml" rel="self" />
     <link href="https://du-juste-mensonge.github.io/WebSiteDev" />
-    <updated>2023-03-20T12:34:25+01:00</updated>
+    <updated>2023-03-20T14:29:42+01:00</updated>
     <author>
-        <name>Du Juste Mensonge</name>
+        <name>Admin</name>
     </author>
     <id>https://du-juste-mensonge.github.io/WebSiteDev</id>
 
     <entry>
-        <title>bonjour a vous</title>
+        <title>Simple Article de test</title>
         <author>
-            <name>Du Juste Mensonge</name>
+            <name>Admin</name>
         </author>
-        <link href="https://du-juste-mensonge.github.io/WebSiteDev/bonjour-a-vous.html"/>
-        <id>https://du-juste-mensonge.github.io/WebSiteDev/bonjour-a-vous.html</id>
+        <link href="https://du-juste-mensonge.github.io/WebSiteDev/simple-article-de-test.html"/>
+        <id>https://du-juste-mensonge.github.io/WebSiteDev/simple-article-de-test.html</id>
+            <category term="News"/>
 
-        <updated>2023-03-20T12:34:25+01:00</updated>
+        <updated>2023-03-20T14:29:42+01:00</updated>
             <summary>
                 <![CDATA[
-                    ceci est un début pour nous.
+                    test test test test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/logoDJM.png" height="500" width="500" alt=""  sizes="100vw" srcset="https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-xs.png 300w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-sm.png 480w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-md.png 768w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-lg.png 1024w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-xl.png 1360w ,https://du-juste-mensonge.github.io/WebSiteDev/media/posts/1/responsive/logoDJM-2xl.png 1600w">
-      
-    </figure>
+                <p>test</p>
+<h1 id="test">test</h1>
+<h3 id="test-1">test</h3>
+<ul>
+<li>test</li>
+</ul>
 
-  <p class="align-center">
-    ceci est un début pour nous.
-  </p>
             ]]>
         </content>
     </entry>
