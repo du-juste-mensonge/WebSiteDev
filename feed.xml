@@ -1,37 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Du Juste Mensonge</title>
-    <link href="https://du-juste-mensonge.github.io/WebSiteDev/feed.xml" rel="self" />
-    <link href="https://du-juste-mensonge.github.io/WebSiteDev" />
-    <updated>2023-03-20T14:29:42+01:00</updated>
+    <link href="https://dujustemensonge.fr/feed.xml" rel="self" />
+    <link href="https://dujustemensonge.fr" />
+    <updated>2023-03-21T17:12:54+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
-    <id>https://du-juste-mensonge.github.io/WebSiteDev</id>
+    <id>https://dujustemensonge.fr</id>
 
     <entry>
-        <title>Simple Article de test</title>
+        <title>Notre Nouveau spectacle</title>
         <author>
             <name>Admin</name>
         </author>
-        <link href="https://du-juste-mensonge.github.io/WebSiteDev/simple-article-de-test.html"/>
-        <id>https://du-juste-mensonge.github.io/WebSiteDev/simple-article-de-test.html</id>
+        <link href="https://dujustemensonge.fr/notre-nouveau-spectacle.html"/>
+        <id>https://dujustemensonge.fr/notre-nouveau-spectacle.html</id>
             <category term="News"/>
 
-        <updated>2023-03-20T14:29:42+01:00</updated>
+        <updated>2023-03-21T17:12:54+01:00</updated>
             <summary>
                 <![CDATA[
-                    test test test test
+                    La compagnie du juste mensonge est fière de présenter sa prochaine pièce de théâtre intitulée "Q". Cette pièce émouvante raconte l'histoire d'un homme qui doit apprendre à vivre après la perte de sa femme bien-aimée. "Q" explore les thèmes de l'amour, de la perte, de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test</p>
-<h1 id="test">test</h1>
-<h3 id="test-1">test</h3>
-<ul>
-<li>test</li>
-</ul>
+                <p>La compagnie du juste mensonge est fière de présenter sa prochaine pièce de théâtre intitulée "Q". Cette pièce émouvante raconte l'histoire d'un homme qui doit apprendre à vivre après la perte de sa femme bien-aimée.<br><br>"Q" explore les thèmes de l'amour, de la perte, de la guérison et de la résilience à travers le personnage central, qui lutte pour trouver un sens à sa vie sans sa femme. La pièce est écrite par un auteur de renom, qui a créé un monde complexe et évocateur rempli de personnages authentiques et de moments émouvants.<br><br>La compagnie du juste mensonge a travaillé dur pour donner vie à cette pièce à travers des performances passionnées et des décors impressionnants. Les acteurs ont travaillé sans relâche pour donner vie aux personnages de la pièce, et l'équipe de production a créé un environnement de scène qui transporte le public dans l'histoire.<br><br>Nous sommes convaincus que "Q" touchera le cœur de tous ceux qui la verront. La pièce explore la façon dont nous surmontons les obstacles de la vie, comment nous faisons face à la douleur et comment nous trouvons finalement la force de continuer.<br><br>Nous invitons chaleureusement tous les amoureux du théâtre à venir découvrir cette pièce émouvante et profondément humaine. Les billets sont en vente dès maintenant et la première représentation aura lieu le [date]. Nous avons hâte de vous voir dans le public et de vous offrir une expérience théâtrale inoubliable avec "Q".</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lancement du site web</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://dujustemensonge.fr/simple-article-de-test.html"/>
+        <id>https://dujustemensonge.fr/simple-article-de-test.html</id>
+            <category term="News"/>
+
+        <updated>2023-03-21T17:10:35+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Nous sommes heureux d’annoncer la création du site web ! Ce site web a été conçu pour vous offrir un accès facile et pratique à toutes les informations concernant nos spectacles, nos événements et notre travail artistique. Notre objectif est de rendre votre expérience de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nous sommes heureux d’annoncer la création du site web ! Ce site web a été conçu pour vous offrir un accès facile et pratique à toutes les informations concernant nos spectacles, nos événements et notre travail artistique.</p>
+<p>Notre objectif est de rendre votre expérience de découverte de notre compagnie de théâtre la plus agréable possible. Grâce à notre site web, vous pouvez en apprendre davantage sur notre équipe artistique, notre histoire, nos spectacles en cours et à venir, ainsi que les informations pratiques telles que les dates et les lieux de nos représentations.</p>
+<p>Nous sommes convaincus que ce nouveau site web sera une plateforme utile et pratique pour vous, notre public fidèle, ainsi que pour les nouveaux visiteurs qui souhaitent en savoir plus sur notre travail. Vous pouvez désormais réserver vos billets en ligne, explorer notre galerie de photos et de vidéos, et même vous inscrire à notre newsletter pour recevoir des mises à jour régulières sur nos projets artistiques.</p>
+<p>Nous tenons à remercier notre équipe de développeurs et de designers qui ont travaillé dur pour créer ce site web innovant et attractif. Nous sommes impatients de vous accueillir sur notre site web et de vous faire découvrir notre passion pour le théâtre. N’hésitez pas à nous donner vos commentaires et suggestions, car nous sommes toujours à la recherche de moyens d’améliorer votre expérience sur notre site web.</p>
 
             ]]>
         </content>

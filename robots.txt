@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://du-juste-mensonge.github.io/WebSiteDev/sitemap.xml
+Sitemap: https://dujustemensonge.fr/sitemap.xml

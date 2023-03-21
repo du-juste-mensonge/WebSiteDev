@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://du-juste-mensonge.github.io/WebSiteDev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://dujustemensonge.fr/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://du-juste-mensonge.github.io/WebSiteDev/</loc>
+<loc>https://dujustemensonge.fr/</loc>
 </url>
 <url>
-<loc>https://du-juste-mensonge.github.io/WebSiteDev/simple-article-de-test.html</loc>
-<lastmod>2023-03-20T14:29:42+01:00</lastmod>
+<loc>https://dujustemensonge.fr/notre-nouveau-spectacle.html</loc>
+<lastmod>2023-03-21T17:12:54+01:00</lastmod>
+</url>
+<url>
+<loc>https://dujustemensonge.fr/simple-article-de-test.html</loc>
+<lastmod>2023-03-21T17:10:35+01:00</lastmod>
 </url>
 </urlset>
